@@ -2,11 +2,7 @@
   <img src="assets/banner.png" alt="Banner Lucas Ferreira" width="100%">
 </p>
 
-<p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=.NET+Developer;C%23+Developer;ASP.NET+Core;SQL+Server;Always+Learning+New+Technologies"/>
-
-</p>
 
 
 ## 💻 Sobre mim
@@ -15,8 +11,14 @@ Sou Desenvolvedor .NET, graduado em Análise e Desenvolvimento de Sistemas, com 
 
 Busco construir soluções bem estruturadas, aplicando Programação Orientada a Objetos, boas práticas de desenvolvimento, arquitetura em camadas e versionamento com Git e GitHub.
 
-🎓 **Análise e Desenvolvimento de Sistemas**  
-          Anhanguera – Itupeva/SP
+ **Análise e Desenvolvimento de Sistemas**  
+     🎓     Anhanguera – Itupeva/SP
+
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=.NET+Developer;C%23+Developer;ASP.NET+Core;SQL+Server;Always+Learning+New+Technologies"/>
+
+</p>
 
 
 ## 🚀 Stack Principal
