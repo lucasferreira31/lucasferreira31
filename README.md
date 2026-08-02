@@ -6,33 +6,19 @@
 
 ## 💻 Sobre mim
 
-Desenvolvedor .NET formado em Análise e Desenvolvimento de Sistemas, focado na construção de aplicações utilizando C#, ASP.NET Core, SQL Server e boas práticas de engenharia de software.
+Sou Desenvolvedor .NET, graduado em Análise e Desenvolvimento de Sistemas, com foco no desenvolvimento de aplicações utilizando C#, .NET, ASP.NET Core e SQL Server.
 
-Atualmente desenvolvo projetos completos para aprimorar conhecimentos em APIs REST, arquitetura em camadas, programação orientada a objetos e desenvolvimento backend.
+Busco construir soluções bem estruturadas, aplicando Programação Orientada a Objetos, boas práticas de desenvolvimento, arquitetura em camadas e versionamento com Git e GitHub.
 
-+------------------------------------------------+
-
-🎓 Anhaguera Itupeva-SP
-
-
-Analysis and systems development
-
-+------------------------------------------------+
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="650" alt="Developer at work">
-</p>
-
-
+🎓 **Análise e Desenvolvimento de Sistemas**  
+Anhanguera – Itupeva/SP
 
 
 ## 🚀 Stack Principal
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,git,github,docker,linux,mysql,postman"/>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,git,github,docker,linux,mysql,sqlite,postman,html,css"/>
 
 </p>
 
@@ -70,8 +56,12 @@ Analysis and systems development
 
 ## 📫 Contato
 
-📧 lukaslgmm@gmail.com
+<p align="center">
+  <a href="https://www.linkedin.com/in/lucas-ferreira-machado-96193427a">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-💼 www.linkedin.com/in/lucas-ferreira-machado-96193427a
-
-🐙 GitHub
+  <a href="mailto:lukaslgmm@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
