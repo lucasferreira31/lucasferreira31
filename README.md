@@ -40,7 +40,10 @@ Analysis and systems development
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lucasferreira31&theme=github-dark&hide_border=true" />
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasferreira31&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasferreira31&layout=compact&theme=github_dark&hide_border=true" />
+</p>
 
 ## 🔥 GitHub Streak
 
