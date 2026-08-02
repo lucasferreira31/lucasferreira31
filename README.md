@@ -22,9 +22,7 @@ Analysis and systems development
 ---
 
 <p align="center">
-
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="500">
-
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="650" alt="Developer at work">
 </p>
 
 
@@ -42,14 +40,7 @@ Analysis and systems development
 
 ## 📊 GitHub Stats
 
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=lucasferreira31&show_icons=true&theme=github_dark"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasferreira31&layout=compact&theme=github_dark"/>
-
-</p>
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lucasferreira31&theme=github-dark&hide_border=true" />
 
 ## 🔥 GitHub Streak
 
