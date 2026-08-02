@@ -11,7 +11,7 @@ Sou Desenvolvedor .NET, graduado em Análise e Desenvolvimento de Sistemas, com 
 Busco construir soluções bem estruturadas, aplicando Programação Orientada a Objetos, boas práticas de desenvolvimento, arquitetura em camadas e versionamento com Git e GitHub.
 
 🎓 **Análise e Desenvolvimento de Sistemas**  
-Anhanguera – Itupeva/SP
+          Anhanguera – Itupeva/SP
 
 
 ## 🚀 Stack Principal
@@ -56,12 +56,20 @@ Anhanguera – Itupeva/SP
 
 ## 📫 Contato
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/lucas-ferreira-machado-96193427a">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+## 📫 Contato
 
-  <a href="mailto:lukaslgmm@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<p align="center">
+
+<a href="https://www.linkedin.com/in/lucas-ferreira-machado-96193427a" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:lukaslgmm@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://wa.me/5521995662915">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
 </p>
