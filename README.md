@@ -21,10 +21,10 @@ Analysis and systems development
 
 ---
 
-[<p align="center">
+[[<p align="center">
 <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="450">
 </p>](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjVlazJja25kY3FuNTcxZDBtaHJzdm1kcXN2ODgzZTRrdXRocWFidSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif)
-
+](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjVlazJja25kY3FuNTcxZDBtaHJzdm1kcXN2ODgzZTRrdXRocWFidSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif)
 ---
 
 ## 🚀 Stack Principal
