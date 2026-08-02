@@ -33,12 +33,7 @@ Busco construir soluções bem estruturadas, aplicando Programação Orientada a
 </p>
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasferreira31&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasferreira31&layout=compact&theme=github_dark&hide_border=true" />
-</p>
 
 ## 🔥 GitHub Streak
 
@@ -63,7 +58,6 @@ Busco construir soluções bem estruturadas, aplicando Programação Orientada a
 
 ---
 
-## 📫 Contato
 
 ## 📫 Contato
 
@@ -81,4 +75,10 @@ Busco construir soluções bem estruturadas, aplicando Programação Orientada a
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
+</p>
+
+## 🐍 GitHub Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lucasferreira31/lucasferreira31/output/github-contribution-grid-snake.svg">
 </p>
