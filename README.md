@@ -11,7 +11,9 @@ Desenvolvedor .NET formado em Análise e Desenvolvimento de Sistemas, focado na 
 Atualmente desenvolvo projetos completos para aprimorar conhecimentos em APIs REST, arquitetura em camadas, programação orientada a objetos e desenvolvimento backend.
 
 +------------------------------------------------+
+
 🎓 Anhaguera Itupeva-SP
+
 
 Analysis and systems development
 
