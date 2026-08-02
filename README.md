@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Banner Lucas Ferreira" width="100%">
+</p>
 <h1 align="center">Olá 👋, eu sou Lucas Ferreira</h1>
 
 <h3 align="center">.NET Developer</h3>
