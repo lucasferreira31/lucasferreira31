@@ -80,5 +80,5 @@ Busco construir soluções bem estruturadas, aplicando Programação Orientada a
 ## 🐍 GitHub Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lucasferreira31/lucasferreira31/output/github-contribution-grid-snake.svg">
+<img src="https://raw.githubusercontent.com/lucasferreira31/lucasferreira31/output/github-contribution-grid-snake.svg">
 </p>
