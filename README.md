@@ -41,7 +41,7 @@ Analysis and systems development
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasferreira31&layout=compact&theme=github_dark"/>
 
 </p>
----
+
 
 ## 🔥 GitHub Streak
 
