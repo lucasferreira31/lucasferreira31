@@ -2,11 +2,7 @@
 
 <h3 align="center">.NET Developer</h3>
 
-<p align="center">
-<img src="assets/banner.png">
-</p>
 
----
 
 ## 💻 Sobre mim
 
@@ -14,11 +10,18 @@ Desenvolvedor .NET formado em Análise e Desenvolvimento de Sistemas, focado na 
 
 Atualmente desenvolvo projetos completos para aprimorar conhecimentos em APIs REST, arquitetura em camadas, programação orientada a objetos e desenvolvimento backend.
 
++------------------------------------------------+
+🎓 Anhaguera Itupeva-SP
+
+Analysis and systems development
+
++------------------------------------------------+
+
 ---
 
-<p align="center">
+[<p align="center">
 <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="450">
-</p>
+</p>](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjVlazJja25kY3FuNTcxZDBtaHJzdm1kcXN2ODgzZTRrdXRocWFidSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif)
 
 ---
 
