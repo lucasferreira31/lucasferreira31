@@ -52,6 +52,7 @@ Busco construir soluções bem estruturadas, aplicando Programação Orientada a
 | Employee Management | C# • POO |
 | Employee Salary Manager | C# |
 | Matrix Neighbor Finder | C# |
+| Employee Income Management | C# |
 | Banking System | C# |
 | Chess System | C# |
 | ASP.NET Web API | ASP.NET Core |
