@@ -2,9 +2,6 @@
   <img src="assets/banner.png" alt="Banner Lucas Ferreira" width="100%">
 </p>
 
-
-
-
 ## 💻 Sobre mim
 
 Sou Desenvolvedor .NET, graduado em Análise e Desenvolvimento de Sistemas, com foco no desenvolvimento de aplicações utilizando C#, .NET, ASP.NET Core e SQL Server.
@@ -14,9 +11,6 @@ Busco construir soluções bem estruturadas, aplicando Programação Orientada a
  **Análise e Desenvolvimento de Sistemas**  
      🎓     Anhanguera – Itupeva/SP
 
-
-
-
 ## 🚀 Stack Principal
 
 <p align="center">
@@ -25,15 +19,13 @@ Busco construir soluções bem estruturadas, aplicando Programação Orientada a
 
 </p>
 
-
 <p align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=.NET+Developer;C%23+Developer;ASP.NET+Core;SQL+Server;Always+Learning+New+Technologies"/>
 
 </p>
+
 ---
-
-
 
 ## 🔥 GitHub Streak
 
@@ -47,18 +39,30 @@ Busco construir soluções bem estruturadas, aplicando Programação Orientada a
 
 ## 🚀 Projetos em Destaque
 
+### 🚓 [Gestão de Viaturas API](https://github.com/lucasferreira31/GestaoViaturasAPI)
+
+API REST para cadastro e acompanhamento de viaturas, desenvolvida com **C# e ASP.NET Core 8**. Reúne persistência com **Entity Framework Core e SQL Server**, autenticação **JWT**, validação de dados e documentação com **Swagger**.
+
+- Cadastro, consulta, atualização e exclusão de viaturas.
+- Regras de negócio para placas, quilometragem e estados da viatura.
+- Senhas com hash, controle de concorrência e tratamento de erros com ProblemDetails.
+- 24 testes automatizados, incluindo testes unitários e de integração.
+
+**[Explorar o código e as instruções de execução →](https://github.com/lucasferreira31/GestaoViaturasAPI#readme)**
+
+### Outros projetos
+
 | Projeto | Tecnologias |
 |---------|-------------|
-| Employee Management | C# • POO |
+| [Employee Management](https://github.com/lucasferreira31/employee-management-csharp) | C# • POO |
 | Employee Salary Manager | C# |
-| Matrix Neighbor Finder | C# |
-| Employee Income Management | C# |
+| [Matrix Neighbor Finder](https://github.com/lucasferreira31/MatrixNeighborFinder) | C# |
+| [Employee Income Management](https://github.com/lucasferreira31/Employee-Income-Management) | C# |
 | Banking System | C# |
 | Chess System | C# |
 | ASP.NET Web API | ASP.NET Core |
 
 ---
-
 
 ## 📫 Contato
 
