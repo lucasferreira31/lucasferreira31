@@ -4,7 +4,7 @@
 
 ## 💻 Sobre mim
 
-Desenvolvedor C#/.NET, graduado em Análise e Desenvolvimento de Sistemas, em busca de uma oportunidade como **desenvolvedor backend júnior**. Desenvolvo APIs REST com ASP.NET Core, Entity Framework Core e SQL Server, praticando testes automatizados e boas práticas de programação.
+Desenvolvedor C#/.NET, graduado em Análise e Desenvolvimento de Sistemas, em busca de uma oportunidade como **desenvolvedor backend júnior**. Desenvolvo APIs REST com ASP.NET Core, Entity Framework Core, SQL Server e SQLite, praticando testes automatizados e boas práticas de programação.
 
 Meus projetos registram minha evolução em lógica de programação, orientação a objetos, acesso a dados e desenvolvimento de APIs.
 
@@ -12,11 +12,23 @@ Meus projetos registram minha evolução em lógica de programação, orientaç�
 
 ## 🛠️ Tecnologias principais
 
-**C# • .NET • ASP.NET Core • Entity Framework Core • SQL Server • Git e GitHub**
+**C# • .NET • ASP.NET Core • Entity Framework Core • SQL Server • SQLite • Git e GitHub**
 
-Nos projetos, também pratico autenticação JWT, validação de dados, documentação com Swagger e testes unitários e de integração.
+Nos projetos, também pratico autenticação JWT, validação de dados, documentação com OpenAPI/Swagger e testes unitários e de integração.
 
 ## 🚀 Projetos em Destaque
+
+### 📦 [Pedidos & Estoque API](https://github.com/lucasferreira31/PedidosEstoqueAPI)
+
+API REST para registrar vendas e controlar estoque com **C#, ASP.NET Core/.NET 10, Entity Framework Core e SQLite**. O foco é manter os dados consistentes quando compras são reenviadas ou acontecem ao mesmo tempo.
+
+- Autenticação JWT, perfis Gestor/Vendedor e acesso aos pedidos conforme o usuário autenticado.
+- Estoque, pedidos e movimentações persistidos em transações, com reversão em caso de falha.
+- Idempotência por usuário: reenviar a mesma compra retorna o mesmo pedido, sem baixar o estoque novamente.
+- Separação entre domínio, persistência e API; testes de compras e cancelamentos simultâneos.
+- 90 testes automatizados de domínio, persistência e HTTP/inicialização, com CI no Windows e no Linux.
+
+**[Explorar o código e executar o projeto →](https://github.com/lucasferreira31/PedidosEstoqueAPI#readme)** · **[Roteiro de demonstração](https://github.com/lucasferreira31/PedidosEstoqueAPI/blob/main/docs/DEMONSTRACAO.md)**
 
 ### 🚓 [Gestão de Viaturas API](https://github.com/lucasferreira31/GestaoViaturasAPI)
 
