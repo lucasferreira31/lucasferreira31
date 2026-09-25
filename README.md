@@ -4,38 +4,17 @@
 
 ## 💻 Sobre mim
 
-Sou Desenvolvedor .NET, graduado em Análise e Desenvolvimento de Sistemas, com foco no desenvolvimento de aplicações utilizando C#, .NET, ASP.NET Core e SQL Server.
+Desenvolvedor C#/.NET, graduado em Análise e Desenvolvimento de Sistemas, em busca de uma oportunidade como **desenvolvedor backend júnior**. Desenvolvo APIs REST com ASP.NET Core, Entity Framework Core e SQL Server, praticando testes automatizados e boas práticas de programação.
 
-Busco construir soluções bem estruturadas, aplicando Programação Orientada a Objetos, boas práticas de desenvolvimento, arquitetura em camadas e versionamento com Git e GitHub.
+Meus projetos registram minha evolução em lógica de programação, orientação a objetos, acesso a dados e desenvolvimento de APIs.
 
- **Análise e Desenvolvimento de Sistemas**  
-     🎓     Anhanguera – Itupeva/SP
+🎓 **Análise e Desenvolvimento de Sistemas** — Anhanguera, Itupeva/SP
 
-## 🚀 Stack Principal
+## 🛠️ Tecnologias principais
 
-<p align="center">
+**C# • .NET • ASP.NET Core • Entity Framework Core • SQL Server • Git e GitHub**
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,git,github,docker,linux,mysql,sqlite,postman,html,css"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=.NET+Developer;C%23+Developer;ASP.NET+Core;SQL+Server;Always+Learning+New+Technologies"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=lucasferreira31&theme=github-dark">
-
-</p>
-
----
+Nos projetos, também pratico autenticação JWT, validação de dados, documentação com Swagger e testes unitários e de integração.
 
 ## 🚀 Projetos em Destaque
 
@@ -50,17 +29,13 @@ API REST para cadastro e acompanhamento de viaturas, desenvolvida com **C# e ASP
 
 **[Explorar o código e as instruções de execução →](https://github.com/lucasferreira31/GestaoViaturasAPI#readme)**
 
-### Outros projetos
+### Projetos de fundamentos
 
-| Projeto | Tecnologias |
-|---------|-------------|
-| [Employee Management](https://github.com/lucasferreira31/employee-management-csharp) | C# • POO |
-| Employee Salary Manager | C# |
-| [Matrix Neighbor Finder](https://github.com/lucasferreira31/MatrixNeighborFinder) | C# |
-| [Employee Income Management](https://github.com/lucasferreira31/Employee-Income-Management) | C# |
-| Banking System | C# |
-| Chess System | C# |
-| ASP.NET Web API | ASP.NET Core |
+| Projeto | O que pratiquei |
+|---------|-----------------|
+| [Employee Income Management](https://github.com/lucasferreira31/Employee-Income-Management) | Gerenciamento de rendimentos em C#, com orientação a objetos, composição, coleções, enums e LINQ. |
+| [Employee Management](https://github.com/lucasferreira31/employee-management-csharp) | Cadastro de funcionários, validação de IDs únicos e aplicação de aumentos salariais em C#. |
+| [Matrix Neighbor Finder](https://github.com/lucasferreira31/MatrixNeighborFinder) | Busca de elementos e identificação de vizinhos em matrizes bidimensionais, praticando lógica e estruturas de repetição. |
 
 ---
 
@@ -81,6 +56,16 @@ API REST para cadastro e acompanhamento de viaturas, desenvolvida com **C# e ASP
 </a>
 
 </p>
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=lucasferreira31&theme=github-dark">
+
+</p>
+
+---
 
 ## 🐍 GitHub Contribution Snake
 
